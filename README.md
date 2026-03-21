@@ -14,69 +14,81 @@
 
 ### 🚀 About Me
 
-I’m a second-year undergraduate student pursuing **Electronics and Telecommunication Engineering** at **R.V. College of Engineering**, Bengaluru.  
-My interests lie at the intersection of **embedded systems**, **IoT**, and **hardware-software integration**. I’m currently building real-world solutions and seeking internship opportunities to apply and expand my skills in a practical setting.
+I’m an undergraduate student in **Electronics and Telecommunication Engineering** at **RV College of Engineering, Bengaluru**.  
+My interests lie in **embedded systems, signal processing, and communication systems**, with a focus on building **end-to-end hardware-software solutions**.
 
 ---
 
-### 🛠️ Technical Proficiencies
+### 🛠️ Technical Skills
 
 - **Languages:** Python, C  
-- **Embedded Platforms:** Arduino, ESP32, STM32 (ARM Cortex-M)  
-- **Simulation Tools:** MATLAB, LTspice, PSpice, Vivado  
-- **Development Environments:** Keil uVision5, Arduino IDE, VS Code  
-- **Other Tools:** Git & GitHub, Blynk, Google Speech API, NLTK  
-- **Hardware Skills:** Circuit design, soldering, sensor interfacing, debugging
+- **Embedded Systems:** Arduino, ESP8266/ESP32, STM32 (Keil uVision5)  
+- **Simulation & Tools:** MATLAB, LTspice, PSpice, Vivado, QCADesigner  
+- **Development Tools:** VS Code, Arduino IDE, Git & GitHub  
+- **Hardware:** Circuit design, soldering, debugging, sensor interfacing  
 
 ---
 
-### 💡 Highlight Projects
+### 💡 Key Projects
 
-#### 🤖 Sign Language Translating Robotic Hand  
-Converts speech/text into American Sign Language gestures using Python, Arduino UNO, servo motors, NLTK, and Google Speech API.  
-**Accuracy:** 90% (lab conditions) | **Skills:** NLP, Speech-to-text, Embedded Control, Assistive Tech
+#### 🤖 Smart Pipe Explorer (Autonomous Inspection Robot)
+Developed an embedded robotic system for pipeline leak detection using **sensor fusion (MQ-135 + acoustic)**.  
+Implemented **custom PCB (5+ modules), PID motor control, and Dijkstra-based path planning** for autonomous navigation and real-time data logging.
 
-#### ☀️ Floating Photovoltaic Tracking System  
-IoT-enabled solar tracker using Arduino to improve charging efficiency for floating solar panels.  
-**Impact:** 20% faster charge (1.5V battery using 6V panel) | **Focus:** Renewable energy, embedded optimization
+---
 
-#### 🌊 Tidal-Based Power Generation Prototype  
-Harvests small-scale energy from wave motion using electromagnetic induction (Faraday’s law).  
-**Output:** 2–3V (for 13 cm waves) | **Goal:** Sustainable micro-energy systems
+#### 📡 Deep Learning-Based Modulation Classification
+Built a **CNN–LSTM model** to classify BPSK, QPSK, and 16-QAM under AWGN and Rayleigh channels using I/Q data.  
+**Accuracy:** ~75% | Evaluated using BER and confusion matrix analysis.
 
-#### 🔋 Wireless EV Charging  
-Built an inductive charging prototype achieving 70% efficiency over a 5 cm range.  
-**Focus:** Power electronics, efficiency vs heat trade-offs, embedded system design
+---
 
-#### 🗑️ Smart Waste Management Bin  
-Touchless bin using STM32F407G, IR/Ultrasonic sensors, and servo motors to detect presence and bin-fill level.  
-**Accuracy:** 90–95% | **Focus:** Embedded automation, STM programming
+#### 📊 Real-Time FFT Spectrum Analyzer
+Developed a real-time DSP system implementing **FFT, FIR filtering, and spectrogram visualization**.  
+Processed signals at **48 kHz sampling rate with 4096-point FFT**.
+
+---
+
+#### 🤖 Sign Language Translating Robotic Hand (ASL)
+Designed a robotic hand using **Python, Arduino UNO, and servo motors** to convert speech/text into American Sign Language gestures.  
+**Accuracy:** ~90% | Integrated **NLTK for text processing and Google Speech API** for real-time voice recognition, demonstrating assistive technology for inclusive communication.
+
+---
+
+#### 🔋 Wireless EV Charging
+Implemented **inductive power transfer system** achieving **70% efficiency over 5 cm range**.  
+Analyzed **efficiency vs heat trade-offs** for compact electronic systems.
+
+---
+
+#### ☀️ Floating Photovoltaic System
+Built an **Arduino-based solar tracking system with IoT integration**, reducing charging time by **~20% (8 hrs → 6.5 hrs)**.
 
 ---
 
 ### 🌱 Currently Exploring
 
-- STM32 advanced peripherals and RTOS
-- Sensor fusion and real-time control
-- Academic coursework: Signal Processing, Communication Systems, DBMS
+- Embedded systems with **STM32 & RTOS**  
+- **Signal Processing & Communication Systems**  
+- PCB design and system-level integration  
 
 ---
 
-### 👥 Activities
+### 👥 Experience & Activities
 
-- 🛰 Member, **Astra Robotics** – Communications subsystem (URC Rover)  
-- ⚽ Football team, **RVCE**  
-- 🎤 Team member, **TEDx RVCE**
+- 🛰 **Astra Robotics (URC Rover Team)** – Communications subsystem  
+- ⚽ **RVCE Football Team**  
+- 🎤 **TEDx RVCE Production Team**  
 
 ---
 
 ### 📬 Contact
 
 - 📧 Email: [preethamv.et23@rvce.edu.in](mailto:preethamv.et23@rvce.edu.in)  
-- 🔗 LinkedIn: [linkedin.com/in/preetham-v](https://linkedin.com/in/preetham-v)
+- 🔗 LinkedIn: [linkedin.com/in/preetham-v](https://linkedin.com/in/preetham-v)  
 
 ---
 
 <p align="center">
-  <em>“Engineering systems that sense, act, and inspire.”</em>
+  <em>“Engineering systems that sense, think, and act.”</em>
 </p>
